@@ -1,7 +1,7 @@
 # Download-Folder-Cleanup
 https://github.com/Lesekater/Download-Folder-Cleanup
 
-A script that cleans up PDF's in a folder by searching for them in google drive and uploading them if not available
+A script that cleans up PDF's in a folder by searching for them in google drive through the google drive api and uploading them if not available
 
 ## Description
 
@@ -24,6 +24,9 @@ pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-
 
 To install python-magic follow the instructions on pypi.org:
 https://pypi.org/project/python-magic/
+
+To create credentials for a google api desktop application, follow the instructions given by google:
+https://developers.google.com/workspace/guides/create-credentials
 
 ## General usage information
 
