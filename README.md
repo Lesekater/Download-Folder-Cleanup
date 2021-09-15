@@ -6,7 +6,7 @@ A script that cleans up PDF's in a folder by searching for them in google drive 
 ## Description
 
 ### `downloadandcomare.py`
-For a given directory, this script goes through the main folder and searches and compares every pdf-file by name with google drive. Based on the resuld it ether uploads or just moves the file to a newly generated "uploaded" folder.
+For a given directory, this script goes through the main folder and searches and compares every pdf-file by name with google drive. Based on the result it ether uploads or just moves the file to a newly generated "uploaded" folder.
 
 ---
 
