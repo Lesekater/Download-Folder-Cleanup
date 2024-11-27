@@ -1,18 +1,3 @@
-== This Project was moved to Codeberg ==
-
-GitHub is a proprietary, trade-secret system that is not Free and Open Souce Software
-(FOSS). We urge you to read about the
-[Give up GitHub](https://GiveUpGitHub.org) campaign from
-[the Software Freedom Conservancy](https://sfconservancy.org) to understand
-some of the reasons why GitHub is not a good place to host FOSS projects.
-
-Any use of this project's code by GitHub Copilot, past or present, is done
-without our permission.  We do not consent to GitHub's use of this project's
-code in Copilot.
-
-![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
-
-
 # Download-Folder-Cleanup
 https://github.com/Lesekater/Download-Folder-Cleanup
 
